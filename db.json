@@ -1,0 +1,50 @@
+{
+    "user": [
+      {
+        "id": "banker",
+        "username": "banker",
+        "password": "banker1234"
+      },
+      {
+          "id": "clientpf",
+          "cpf": "59284883008",
+          "password": "clientpf1234"
+      },
+      {
+          "id": "clientpj",
+          "cnpj": "45425159000196",
+          "cpf": "58598104078",
+          "password": "clientpj1234"
+      }
+    ],
+    "wallet": [
+      {
+        "accountUser": "Antonio Tavares",
+        "accountNumber": "5515323",
+        "cpf": "59284883008",
+        "suitability": "conservador",
+        "typeInvestor": "qualificado",
+        "dateBirthday": "18091976",
+        "email": "antoniotavares@gmail.com",
+        "advisor": "Rafael Acar",
+        "projectedBalance": "50000000",
+        "phone": "1130302299",
+        "availableBalance": "100000000",
+        "mobile": "11985945228"
+  
+      }
+    ],
+    "cashflow": [
+      {
+        "dataLiq":"06/10/2019",
+        "operacoes": "CDB ABC 130 CDI",
+        "valor": "6.000,000"
+      },
+      {
+        "dataLiq":"06/10/2019",
+        "operacoes": "CDB ABC 130 CDI",
+        "valor": "10.000,000"
+      }
+    ]
+  }
+  
