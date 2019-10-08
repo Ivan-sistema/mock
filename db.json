@@ -4,17 +4,6 @@
         "id": "banker",
         "username": "banker",
         "password": "banker1234"
-      },
-      {
-          "id": "clientpf",
-          "cpf": "59284883008",
-          "password": "clientpf1234"
-      },
-      {
-          "id": "clientpj",
-          "cnpj": "45425159000196",
-          "cpf": "58598104078",
-          "password": "clientpj1234"
       }
     ]
   }
