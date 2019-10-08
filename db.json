@@ -1,20 +1,26 @@
 {
     "user": [
       {
-        "id": "banker",
+        "id": "1",
         "username": "banker",
-        "password": "banker1234"
+        "login": "Login Banker",
+        "password": "banker1234",
+        "profile": "banker"
       },
       {
-          "id": "clientpf",
-          "cpf": "59284883008",
-          "password": "clientpf1234"
+        "id": "2",
+        "username": "clientepf",
+        "cpf": "59284883008",
+        "password": "banker1234",
+        "profile": "cliente"
       },
       {
-          "id": "clientpj",
-          "cnpj": "45425159000196",
-          "cpf": "58598104078",
-          "password": "clientpj1234"
+        "id": "2",
+        "username": "clientepj",
+        "cnpj": "45425159000196",
+        "cpf": "58598104078",
+        "password": "banker1234",
+        "profile": "cliente"
       }
     ]
   }
