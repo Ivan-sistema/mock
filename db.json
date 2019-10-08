@@ -27,6 +27,17 @@
         "password": "banker1234",
         "profile": "cliente"
       }
-    ]
+    ],
+    "cashflow": [
+        {
+          "dataLiq":"06/10/2019",
+          "operacoes": "CDB ABC 130 CDI",
+          "valor": "6.000,000"
+        },
+        {
+          "dataLiq":"06/10/2019",
+          "operacoes": "CDB ABC 130 CDI",
+          "valor": "10.000,000"
+        }
+      ]
   }
-  
