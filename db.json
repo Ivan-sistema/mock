@@ -1,10 +1,15 @@
 {
     "user": [
-      {
-        "id": "banker",
-        "username": "banker",
-        "password": "banker1234"
-      }
+        {
+          "id": "banker",
+          "username": "banker",
+          "password": "banker1234"
+        },
+        {
+          "id": "pessoafisica",
+          "username": "pessoafisica",
+          "password": "pessoafisica1234"
+        }
     ]
   }
   
