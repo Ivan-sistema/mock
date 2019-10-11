@@ -1,14 +1,20 @@
 {
     "user": [
       {
-        "id": "1",
-        "username": "banker",
-        "login": "Login Banker",
-        "cnpj": "",
-        "cpf": "",
-        "password": "banker1234",
-        "profile": "banker"
-      },
+        "id": "1", 
+        "username": "banker", 
+        "login": "Login Banker", 
+        "cnpj": "", 
+        "cpf": "", 
+        "password": "banker1234", 
+        "profile": [
+          {
+            "alias": "BANKER"
+          }
+        ]
+      }
+    ]
+    ,
       {
         "id": "2",
         "username": "clientepf",
