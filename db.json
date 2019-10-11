@@ -7,10 +7,7 @@
         "cnpj": "", 
         "cpf": "", 
         "password": "banker1234", 
-        "profile": 
-          {
-            "alias": "BANKER"
-          }
+        "profile": "Banker"
       }
        ,
       {
