@@ -43,10 +43,11 @@
           "valor": "10.000,000"
         }
       ],
-      "wallets":[
-        {
-          "user":{
-            "accountUser": "1" ,
+    "wallets":[
+       {
+         "id":"1",
+        "user":{
+           "accountUser": "1" ,
             "accountNumber": "5515323",
             "cpf": "59284883008",
             "suitability": "conservador", 
