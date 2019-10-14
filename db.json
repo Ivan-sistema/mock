@@ -45,9 +45,8 @@
       ],
     "wallets":[
        {
-         "id":"1",
         "user":{
-           "accountUser": "1" ,
+           "accountUser": "Rafael Acar" ,
             "accountNumber": "5515323",
             "cpf": "59284883008",
             "suitability": "conservador", 
