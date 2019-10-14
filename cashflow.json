@@ -1,36 +1,4 @@
 {
-    "user": [
-      {
-        "id": "1", 
-        "username": "banker", 
-        "login": "Login Banker", 
-        "cnpj": "", 
-        "cpf": "", 
-        "password": "banker1234", 
-        "profile": "Banker"
-      }
-       ,
-      {
-        "id": "2",
-        "username": "clientepf",
-        "login": "",
-        "cnpj": "",
-        "cpf": "58598104078",
-        "password": "banker1234",
-        "profile": "cliente"
-      },
-      {
-        "id": "3",
-        "username": "clientepj",
-        "login": "",
-        "cnpj": "45425159000196",
-        "cpf": "58598104078",
-        "password": "banker1234",
-        "profile": "cliente"
-      }
-    ]
-  }
-  {
     "cashflow": [
         {
           "id": "1",
