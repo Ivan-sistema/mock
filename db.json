@@ -28,6 +28,90 @@
         "password": "banker1234",
         "profile": "cliente"
       }
+    ],
+    
+    "cashflow": [
+        {
+          "id": "1",
+          "dataLiq":"06/10/2019",
+          "operacoes": "CDB ABC 130 CDI",
+          "valor": "6.000,000"
+        },
+        {
+          "id": "2",
+          "dataLiq":"06/10/2019",
+          "operacoes": "CDB ABC 130 CDI",
+          "valor": "10.000,000"
+        }
+      ],
+    "wallets":[
+       {
+        "user":{
+           "accountUser": "Rafael Acar" ,
+            "accountNumber": "5515323",
+            "cpf": "59284883008",
+            "suitability": "conservador", 
+            "typeInvestor": "qualificado",
+            "dateBirthday": "18091976",
+            "email": "antoniotavares@gmail.com",
+            "advisor": "Rafael Acar",
+            "projectedBalance": "100000000",
+            "phone": "1130302299",
+            "availableBalance":"11985945228",
+            "mobile": "11985945228"
+          }             
+      }
+    ],
+    "rendaVariavel": [
+      {            
+        "alias":"Renda Variável",
+        "percents":"40%",
+        "valorTotal":"1.000,00"
+      }
+    ],
+    "fundos": [
+      {
+        "alias":"Fundos",
+        "percents":"30%",
+        "valorTotal":"500,00"
+      }
+    ],
+    "rendaFixa": [
+      {
+        "alias":"Renda Fixa",
+        "percents":"20%",
+        "valorTotal":"700,00"
+      }
+    ],
+    "prodEstruturados": [
+      {
+        "alias":"Produtos Estruturados",
+        "percents":"10%",
+        "valorTotal":"700,00"
+      }
+    ],
+    "profitabilityPeriod": [
+      {
+      "wallet": [
+        { 
+          "periodo": "1,07%",
+          "m-1": "0,05%",
+          "ano": "6,3%",
+          "12m": "6,3%",
+          "24-meses": "14%",
+          "36-meses": "27%",
+          "Inicio" : "27%"
+        },
+        { 
+          "periodo": "1,07%",
+          "m-1": "0,05%",
+          "ano": "6,3%",
+          "12m": "6,3%",
+          "24-meses": "14%",
+          "36-meses": "27%",
+          "Inicio" : "27%"
+        }
+      ]
+    }
     ]
   }
- 
