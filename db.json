@@ -53,34 +53,40 @@
             "typeInvestor": "qualificado",
             "dateBirthday": "18091976",
             "email": "antoniotavares@gmail.com",
-            "advisor": "Rafael Acar", 
+            "advisor": "Rafael Acar",
             "projectedBalance": "100000000",
             "phone": "1130302299",
             "availableBalance":"11985945228",
             "mobile": "11985945228"
-          },
-          "asset": [
-            {            
-              "alias":"Renda Variável",
-              "percents":"40%",
-              "valorTotal":"1.000,00"
-            },
-            {
-              "alias":"Fundos",
-              "percents":"30%",
-              "valorTotal":"500,00"
-            },
-            {
-              "alias":"Renda Fixa",
-              "percents":"20%",
-              "valorTotal":"700,00"
-            },
-            {
-              "alias":"Produtos Estruturados",
-              "percents":"10%",
-              "valorTotal":"700,00"
-            }
-        ]       
+          }             
       }
-    ]
+    ],
+    "rendaVariavel": [
+      {            
+        "alias":"Renda Variável",
+        "percents":"40%",
+        "valorTotal":"1.000,00"
+      }
+    ],
+    "fundos": [
+      {
+        "alias":"Fundos",
+        "percents":"30%",
+        "valorTotal":"500,00"
+      }
+    ],
+    "rendaFixa": [
+      {
+        "alias":"Renda Fixa",
+        "percents":"20%",
+        "valorTotal":"700,00"
+      }
+    ],
+    "prodEstruturados": [
+      {
+        "alias":"Produtos Estruturados",
+        "percents":"10%",
+        "valorTotal":"700,00"
+      }
+    ]   
   }
